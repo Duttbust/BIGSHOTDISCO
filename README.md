@@ -1,2 +1,1 @@
-# BIGSHOTDISCO
-a lethal company mod to replace the disco theme with "BIGSHOT" from deltarune
+Replaces the discoball theme with NEO Spamton's theme 'BIGSHOT' from Deltarune
